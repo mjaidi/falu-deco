@@ -13,7 +13,7 @@ import GridItem from "../components/common/gridItem"
 import Container from "../components/common/container"
 import TriangleClip from "../components/common/triangleClip.js"
 import Carousel from "../components/Carousel"
-import CarouselCard from "../components/CarouselCard"
+// import CarouselCard from "../components/CarouselCard"
 
 import {
   About,
@@ -34,19 +34,19 @@ const IndexPage = props => {
 
   const services = props.data.services.edges
   const clients = props.data.clients.nodes[0].frontmatter
-  const instagram = props.data.insta.edges.filter(
-    i => i.node.localFile !== null
-  )
+  // const instagram = props.data.insta.edges.filter(
+  //   i => i.node.localFile !== null
+  // )
 
   const carouselImgs = homePageData.banner_gallery.map(g => {
     return { headline: g.title, subline: g.subtitle, url: g.image }
   })
-  const instagramImgs = instagram.map(i => {
-    return {
-      headline: i.node.caption,
-      url: i.node.localFile.childImageSharp.fixed.src,
-    }
-  })
+  // const instagramImgs = instagram.map(i => {
+  //   return {
+  //     headline: i.node.caption,
+  //     url: i.node.localFile.childImageSharp.fixed.src,
+  //   }
+  // })
 
   return (
     <Layout location="/">
@@ -143,7 +143,7 @@ const IndexPage = props => {
       </Container>
 
       {/* Nouveautés Carousel */}
-      <TriangleClip textured />
+      {/* <TriangleClip textured />
       <Container textured>
         <div style={{ paddingTop: "2rem" }}>
           <Title>Nouveautés</Title>
@@ -152,7 +152,7 @@ const IndexPage = props => {
           </ScrollAnimation>
         </div>
       </Container>
-      <TriangleClip direction="bottom" textured />
+      <TriangleClip direction="bottom" textured /> */}
 
       {/* Clients Section */}
       <Container>
@@ -245,20 +245,20 @@ export const pageQuery = graphql`
         }
       }
     }
-    insta: allInstaNode {
-      edges {
-        node {
-          caption
-          localFile {
-            childImageSharp {
-              fixed {
-                ...GatsbyImageSharpFixed
-              }
-            }
-          }
-        }
-      }
-    }
+    # insta: allInstaNode {
+    #   edges {
+    #     node {
+    #       caption
+    #       localFile {
+    #         childImageSharp {
+    #           fixed {
+    #             ...GatsbyImageSharpFixed
+    #           }
+    #         }
+    #       }
+    #     }
+    #   }
+    # }
     clients: allMdx(
       filter: {
         parent: {
