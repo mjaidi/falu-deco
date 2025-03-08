@@ -62,14 +62,14 @@ const ServiceDetailTemplate = props => {
         <ServiceNavigation>
           <li>
             {previous && (
-              <Link to={`services${previous.fields.slug}`} rel="prev">
+              <Link to={`/services${previous.fields.slug}`} rel="prev">
                 ← {previous.frontmatter.title}
               </Link>
             )}
           </li>
           <li>
             {next && (
-              <Link to={`services${next.fields.slug}`} rel="next">
+              <Link to={`/services${next.fields.slug}`} rel="next">
                 {next.frontmatter.title} →
               </Link>
             )}

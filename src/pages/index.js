@@ -88,7 +88,7 @@ const IndexPage = props => {
                     animateOnce={true}
                     duration={2}
                   >
-                    <Link to={`services${node.fields.slug}`}>
+                    <Link to={`/services${node.fields.slug}`}>
                       <div className="service-card">
                         <Grid>
                           <GridItem lgColumns={2}>

@@ -34,7 +34,7 @@ const NavbarLinks = ({ data, desktop, location }) => {
           {data.services.edges.map((e, index) => {
             return (
               <li key={index}>
-                <Link to={`services${e.node.fields.slug}`}>
+                <Link to={`/services${e.node.fields.slug}`}>
                   {e.node.frontmatter.title}
                 </Link>
               </li>

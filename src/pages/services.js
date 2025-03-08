@@ -63,7 +63,7 @@ const Services = props => {
                           .toString(),
                       }}
                     />
-                    <Link to={`services${p.node.fields.slug}`}>
+                    <Link to={`/services${p.node.fields.slug}`}>
                       <Button background={accentSecondary}>
                         En savoir plus...
                       </Button>
