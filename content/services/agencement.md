@@ -22,45 +22,23 @@ icon: >-
 categories:
   - images:
       - >-
-        https://res.cloudinary.com/faludeco/image/upload/v1581440920/Services/Agencement/Menuiserie%20Bois/image01_k9nxm9_k6gfsi.jpg
+        https://res.cloudinary.com/faludeco/image/upload/v1581440850/Services/Agencement/Habillage%20Murals/img695_gb6mla_eyq3bd.jpg
       - >-
-        https://res.cloudinary.com/faludeco/image/upload/v1581440914/Services/Agencement/Menuiserie%20Bois/image03_ltt0qj_lmmvsx.jpg
+        https://res.cloudinary.com/faludeco/image/upload/v1581440853/Services/Agencement/Habillage%20Murals/img710_hxawt4_gxq14r.jpg
       - >-
-        https://res.cloudinary.com/faludeco/image/upload/v1581440904/Services/Agencement/Menuiserie%20Bois/IMG_0790_mssscc.jpg
+        https://res.cloudinary.com/faludeco/image/upload/v1581440855/Services/Agencement/Habillage%20Murals/img725_zgnk7u_bcvzki.jpg
       - >-
-        https://res.cloudinary.com/faludeco/image/upload/v1581440885/Services/Agencement/Menuiserie%20Bois/WhatsApp_Image_2019-07-02_at_10.50.33_2_pcbvik_o8x3nl.jpg
+        https://res.cloudinary.com/faludeco/image/upload/v1581440857/Services/Agencement/Habillage%20Murals/img741_zpgyzi_rhl64z.jpg
       - >-
-        https://res.cloudinary.com/faludeco/image/upload/v1581440881/Services/Agencement/Menuiserie%20Bois/WhatsApp_Image_2019-06-11_at_08.20.11_26_ktbdvg_mkcfvy.jpg
+        https://res.cloudinary.com/faludeco/image/upload/v1581440860/Services/Agencement/Habillage%20Murals/img757_wotyib_r0lgzw.jpg
       - >-
-        https://res.cloudinary.com/faludeco/image/upload/v1581440876/Services/Agencement/Menuiserie%20Bois/WhatsApp_Image_2019-06-11_at_08.20.11_16_pyufg6_ah7aqn.jpg
+        https://res.cloudinary.com/faludeco/image/upload/v1581440869/Services/Agencement/Habillage%20Murals/WhatsApp_Image_2020-02-05_at_11.03.38_11_lkyorx.jpg
       - >-
-        https://res.cloudinary.com/faludeco/image/upload/v1581440872/Services/Agencement/Menuiserie%20Bois/WhatsApp_Image_2020-02-06_at_09.23.06_11_lzeerm.jpg
+        https://res.cloudinary.com/faludeco/image/upload/v1581440885/Services/Agencement/Habillage%20Murals/WhatsApp_Image_2019-07-02_at_10.50.33_2_pcbvik_o8x3nl.jpg
       - >-
-        https://res.cloudinary.com/faludeco/image/upload/v1581440869/Services/Agencement/Menuiserie%20Bois/WhatsApp_Image_2020-02-05_at_11.03.38_11_lkyorx.jpg
+        https://res.cloudinary.com/faludeco/image/upload/v1581440920/Services/Agencement/Habillage%20Murals/image01_k9nxm9_k6gfsi.jpg
       - >-
-        https://res.cloudinary.com/faludeco/image/upload/v1581440867/Services/Agencement/Menuiserie%20Bois/WhatsApp_Image_2020-02-05_at_11.03.38_2_mkv3pw.jpg
-      - >-
-        https://res.cloudinary.com/faludeco/image/upload/v1581440864/Services/Agencement/Menuiserie%20Bois/img772_hlsalm_wkn8ji.jpg
-      - >-
-        https://res.cloudinary.com/faludeco/image/upload/v1581440863/Services/Agencement/Menuiserie%20Bois/img771_ehonai_lkv6on.jpg
-      - >-
-        https://res.cloudinary.com/faludeco/image/upload/v1581440860/Services/Agencement/Menuiserie%20Bois/img757_wotyib_r0lgzw.jpg
-      - >-
-        https://res.cloudinary.com/faludeco/image/upload/v1581440857/Services/Agencement/Menuiserie%20Bois/img741_zpgyzi_rhl64z.jpg
-      - >-
-        https://res.cloudinary.com/faludeco/image/upload/v1581440855/Services/Agencement/Menuiserie%20Bois/img725_zgnk7u_bcvzki.jpg
-      - >-
-        https://res.cloudinary.com/faludeco/image/upload/v1581440853/Services/Agencement/Menuiserie%20Bois/img710_hxawt4_gxq14r.jpg
-      - >-
-        https://res.cloudinary.com/faludeco/image/upload/v1581440852/Services/Agencement/Menuiserie%20Bois/img709_nt0mx9_tzaf37.jpg
-      - >-
-        https://res.cloudinary.com/faludeco/image/upload/v1581440850/Services/Agencement/Menuiserie%20Bois/img695_gb6mla_eyq3bd.jpg
-      - >-
-        https://res.cloudinary.com/faludeco/image/upload/v1581440849/Services/Agencement/Menuiserie%20Bois/img548_ktpigc_crbwqd.jpg
-      - >-
-        https://res.cloudinary.com/faludeco/image/upload/v1581440844/Services/Agencement/Menuiserie%20Bois/img694_lzpyb9_muhxym.jpg
-      - >-
-        https://res.cloudinary.com/faludeco/image/upload/v1581440943/Services/Agencement/Menuiserie%20Bois/20190722_153539_lfkirm.jpg
+        https://res.cloudinary.com/faludeco/image/upload/v1581440904/Services/Agencement/Habillage%20Murals/IMG_0790_mssscc.jpg
     title: Habillages Muraux
   - images:
       - >-
