@@ -1,6 +1,6 @@
 ---
 client_gallery:
-  - logo: https://res.cloudinary.com/faludeco/image/upload/v1574106745/Clients/logo1_kagyuu.png
+  - logo: https://res.cloudinary.com/faludeco/image/upload/v1741564649/Boa_pgfrwy.png
     name: BMCE bank
   - logo: https://res.cloudinary.com/faludeco/image/upload/v1578905163/Clients/Banque-Populaire-Logo_lk91bs.jpg
     name: BANQUE POPULAIRE
@@ -37,11 +37,11 @@ client_gallery:
   - logo: https://res.cloudinary.com/faludeco/image/upload/v1573631715/Clients/fiat_ob3sf5.png
     name: Fiat
   - name: Isuzu
-    logo: https://res.cloudinary.com/faludeco/image/upload/v1741563875/png-clipart-isuzu-motors-ltd-logo-brand-isuzu-motors-ltd-logo_jt0wsj.png
+    logo: https://res.cloudinary.com/faludeco/image/upload/v1741564439/Isuzu-logo_vnar9g.jpg
   - name: Zeekr
-    logo: https://res.cloudinary.com/faludeco/image/upload/v1741564041/Logo-Zeekr_chomyc.png
+    logo: https://res.cloudinary.com/faludeco/image/upload/v1741564520/Zeekr_ardzrn.jpg
   - name: Great Wall Motors
-    logo: https://res.cloudinary.com/faludeco/image/upload/v1741563589/png-clipart-great-wall-motors-great-wall-voleex-c30-logo-car-car-trademark-logo_xpkwm3.png
+    logo: https://res.cloudinary.com/faludeco/image/upload/v1741564439/GWM_uiiy3b.png
   - logo: https://res.cloudinary.com/faludeco/image/upload/v1573631534/Clients/9bcab763066b7840089a54aaf66ba3d2_dgyide.gif
     name: Jeep
   - logo: https://res.cloudinary.com/faludeco/image/upload/v1574106747/Clients/logo-Alfa-Romeo_zz2h0h.png
@@ -57,7 +57,7 @@ client_gallery:
   - logo: https://res.cloudinary.com/faludeco/image/upload/v1574105448/Clients/Cartier-logo_lgsaom.png
     name: CARTIER
   - name: FRED
-    logo: https://res.cloudinary.com/faludeco/image/upload/v1741563925/kisspng-jewellery-logo-watch-organization-retail-logo-fred-perry-5b4d65143b9ca1.2198047215317988042442_uhmp6x.jpg
+    logo: https://res.cloudinary.com/faludeco/image/upload/v1741564439/Fred_azojpv.jpg
   - logo: https://res.cloudinary.com/faludeco/image/upload/v1573631713/Clients/Hublot-logo-positive_irhgaf.png
     name: Hublot
   - logo: https://res.cloudinary.com/faludeco/image/upload/v1574105449/Clients/IDFS_eftbqi.png
