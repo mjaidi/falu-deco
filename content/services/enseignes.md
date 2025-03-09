@@ -64,25 +64,23 @@ categories:
     title: Enseignes Lumineuses
   - images:
       - >-
-        https://res.cloudinary.com/faludeco/image/upload/v1581437456/Services/Enseignes/Totem/20190220_155320_etzxyx.jpg
+        https://res.cloudinary.com/faludeco/image/upload/v1581437321/Services/Enseignes/Totem/unnamed_jzftpj.jpg
       - >-
-        https://res.cloudinary.com/faludeco/image/upload/v1581437445/Services/Enseignes/Totem/DSCN9986_jbklcs.jpg
+        https://res.cloudinary.com/faludeco/image/upload/v1581437355/Services/Enseignes/Totem/IMG_5770_gco1q1.jpg
+      - >-
+        https://res.cloudinary.com/faludeco/image/upload/v1581437133/Services/Enseignes/Totem/img147_itqjcl_nmjfry.jpg
+      - >-
+        https://res.cloudinary.com/faludeco/image/upload/v1581437198/Services/Enseignes/Totem/P1010222_lgq7tm.jpg
+      - >-
+        https://res.cloudinary.com/faludeco/image/upload/v1581437316/Services/Enseignes/Totem/Pasteur_Optique2_qlzmcm.jpg
+      - >-
+        https://res.cloudinary.com/faludeco/image/upload/v1741538590/Services/Enseignes/Totem/WhatsApp_Image_2025-03-09_at_17.39.02_1_akziac.jpg
+      - >-
+        https://res.cloudinary.com/faludeco/image/upload/v1581437456/Services/Enseignes/Totem/20190220_155320_etzxyx.jpg
       - >-
         https://res.cloudinary.com/faludeco/image/upload/v1581437416/Services/Enseignes/Totem/P1020308_wtsiv2.jpg
       - >-
         https://res.cloudinary.com/faludeco/image/upload/v1581437416/Services/Enseignes/Totem/P2110507_wy4dd0.jpg
-      - >-
-        https://res.cloudinary.com/faludeco/image/upload/v1581437355/Services/Enseignes/Totem/IMG_5770_gco1q1.jpg
-      - >-
-        https://res.cloudinary.com/faludeco/image/upload/v1581437332/Services/Enseignes/Totem/WhatsApp_Image_2020-02-06_at_09.23.06_19_xtx3dw.jpg
-      - >-
-        https://res.cloudinary.com/faludeco/image/upload/v1581437321/Services/Enseignes/Totem/unnamed_jzftpj.jpg
-      - >-
-        https://res.cloudinary.com/faludeco/image/upload/v1581437316/Services/Enseignes/Totem/Pasteur_Optique2_qlzmcm.jpg
-      - >-
-        https://res.cloudinary.com/faludeco/image/upload/v1581437198/Services/Enseignes/Totem/P1010222_lgq7tm.jpg
-      - >-
-        https://res.cloudinary.com/faludeco/image/upload/v1581437133/Services/Enseignes/Totem/img147_itqjcl_nmjfry.jpg
     title: Totems
   - images:
       - >-
