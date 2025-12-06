@@ -2,9 +2,24 @@
 image: https://res.cloudinary.com/faludeco/image/upload/v1578905564/Notre%20Histoire/Workforce_zzqwzb.jpg
 title: Qui Sommes-Nous?
 text: >-
-  **LA CREATION DE FIRST SIGN :**
+  **D﻿ESCRIPTION DE B2R SOLUTION :**\
 
-  B2R Solution, filiale du Groupe Falu Deco depuis 1986, est forte de 38 ans d'expérience et de savoir faire en se positionnant en tant que leader des sociétés à têtes multiples au Maroc. 
+  Spécialisée dans la **menuiserie métallique, bois et aluminium**, notre entreprise accompagne ses clients dans la réalisation de projets sur mesure, alliant savoir-faire artisanal et technologies modernes.\
+
+  Nous intervenons sur **tous types d’agencements et d’aménagements**, que ce soit pour des espaces professionnels, commerciaux ou résidentiels, en garantissant qualité, précision et durabilité.
+
+
+  Notre expertise s’étend également à la **signalétique** et à l’**habillage de façade**, ce qui nous permet d’offrir des solutions complètes pour valoriser l’image et l’identité visuelle de nos clients.\
+
+  De la conception à l’installation, nous assurons un service clé en main, adapté aux besoins et aux attentes de chaque projet.
+
+
+  Grâce à une équipe qualifiée et polyvalente, nous nous engageons à fournir des réalisations esthétiques, robustes et parfaitement intégrées à leur environnement.
+
+
+  **LA CREATION DE B2R SOLUTION :**
+
+  B2R Solution, filiale du Groupe Falu Deco depuis 1986, est forte de 39 ans d'expérience et de savoir faire en se positionnant en tant que leader des sociétés à têtes multiples au Maroc. 
 
 
   **NOS VALEURS :**
