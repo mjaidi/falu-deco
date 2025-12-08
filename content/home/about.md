@@ -2,7 +2,8 @@
 image: https://res.cloudinary.com/faludeco/image/upload/v1578905564/Notre%20Histoire/Workforce_zzqwzb.jpg
 title: Qui Sommes-Nous?
 text: >-
-  **D﻿ESCRIPTION DE B2R SOLUTION :**\
+  **D﻿ESCRIPTION DE B2R SOLUTION :**
+
 
   Spécialisée dans la **menuiserie métallique, bois et aluminium**, notre entreprise accompagne ses clients dans la réalisation de projets sur mesure, alliant savoir-faire artisanal et technologies modernes.\
 
