@@ -4,8 +4,8 @@ require("dotenv").config({
 
 module.exports = {
   siteMetadata: {
-    title: `First Sign`,
-    description: `First Sign est un spécialiste de l'amménagement intérieur, façades, menuiserie métallurgique et enseignes en tout genre.`,
+    title: `B2R Solution`,
+    description: `B2R Solution est un spécialiste de l'amménagement intérieur, façades, menuiserie métallurgique et enseignes en tout genre.`,
     author: `@mjaidi`,
   },
   plugins: [
@@ -83,8 +83,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `First Sign Site Web`,
-        short_name: `First Sign`,
+        name: `B2R Solution Site Web`,
+        short_name: `B2R Solution`,
         start_url: `/`,
         background_color: `#DA241C`,
         theme_color: `#DA241C`,

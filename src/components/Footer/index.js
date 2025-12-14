@@ -5,7 +5,7 @@ import { Wrapper } from "./styles"
 const Footer = props => {
   return (
     <Wrapper>
-      <h4>© First Sign - Depuis 1986</h4>
+      <h4>© B2R Solution - Depuis 1986</h4>
     </Wrapper>
   )
 }
